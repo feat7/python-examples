@@ -9,4 +9,4 @@ Simple python programs.
    ```./timer.py``` and just enter the time in seconds, timer will start and tell about time up when it is.
    
 3. reader.py - Text reader
-   ```./reader.py``` and enter the text you want to hear. Requires pyttxt3 module. install via pip. ```pip install pyttxt3```
+   ```./reader.py``` and enter the text you want to hear. Requires pyttsx3 module. install via pip. ```pip install pyttsx3```
